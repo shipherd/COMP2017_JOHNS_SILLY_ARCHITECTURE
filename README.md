@@ -1,5 +1,5 @@
-# COMP2017_JOHNS_SILLY_ARCHITECTURE
-A silly and useless architecture made by John.
+# COMP2017_ARCHITECTURE
+An useless architecture.
 Just go and read the file 'specification.pdf'
 
 Have fun!
